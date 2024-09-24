@@ -1,0 +1,7 @@
+.btw {
+    @apply text-black hover:text-red-500
+}
+
+.btr{
+    @apply text-red-500
+}
